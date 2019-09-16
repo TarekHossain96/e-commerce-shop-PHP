@@ -9,7 +9,8 @@ online shopping system with admin and user layouts.
   
   OR follow gitbash commands
 
-   ```1. cd C:\\xampp\htdocs\
+   ```
+  1. cd C:\\xampp\htdocs\
   2. git clone https://github.com/TarekHossain96/e-commerce-shop-PHP.git
   ```
 
